@@ -103,7 +103,7 @@ def center_window(root, width, height):
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.title("How To Use Label")
+    root.title("How To Use Button")
     center_window(root, 300, 300)
     my_gui = MyGUI(root)
     root.mainloop()
