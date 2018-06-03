@@ -49,6 +49,7 @@ class MyGUI(object):
 
         var = tk.StringVar()
         spb2 = tk.Spinbox(frm2, bg='red', fg='white',
+                          wrap=True,
                           value=values_in,
                           textvariable=var,
                           validate='focusout',
