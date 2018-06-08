@@ -17,6 +17,7 @@ Following widgets are included:
 | **Entry**       | 输入控件；用于显示简单的文本内容                     |
 | **Scrollbar**   | 滚动条控件；当内容超过可视化区域时使用，如列表框     |
 | **ListBox**     | 列表框控件；显示一个字符串列表给用户                 |
+| OptionMenu      | Listbox的改版, 添加下拉菜单功能                      |
 | **Text**        | 文本控件；用于显示多行本文                           |
 | **Message**     | 消息控件，用来显示多行文本，与label类似              |
 | **Canvas**      | 画布控件                                             |
